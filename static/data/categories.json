@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Industrial Supplies",
+            "slug": "industrial",
+            "description": "Professional-grade tools for heavy-duty work",
+            "icon": "fa-industry",
+            "image": "industrial.jpg",
+            "sort_order": 1,
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "name": "Office Supplies",
+            "slug": "office",
+            "description": "Everything your workspace needs to function efficiently",
+            "icon": "fa-briefcase",
+            "image": "office.jpg",
+            "sort_order": 2,
+            "status": "active"
+        },
+        {
+            "id": 3,
+            "name": "Cleaning & Janitorial",
+            "slug": "cleaning",
+            "description": "Keep your spaces clean and hygienic",
+            "icon": "fa-sparkles",
+            "image": "cleaning.jpg",
+            "sort_order": 3,
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "name": "Safety Equipment",
+            "slug": "safety",
+            "description": "Protect your workforce with quality safety gear",
+            "icon": "fa-shield-halved",
+            "image": "safety.jpg",
+            "sort_order": 4,
+            "status": "active"
+        },
+        {
+            "id": 5,
+            "name": "Electronics & Technology",
+            "slug": "electronics",
+            "description": "Cutting-edge tech for modern businesses",
+            "icon": "fa-microchip",
+            "image": "electronics.jpg",
+            "sort_order": 5,
+            "status": "active"
+        },
+        {
+            "id": 6,
+            "name": "Building Materials",
+            "slug": "building",
+            "description": "Quality construction and building materials",
+            "icon": "fa-building",
+            "image": "building.jpg",
+            "sort_order": 6,
+            "status": "active"
+        },
+        {
+            "id": 7,
+            "name": "Hospitality & Catering",
+            "slug": "hospitality",
+            "description": "Premium supplies for hospitality businesses",
+            "icon": "fa-utensils",
+            "image": "hospitality.jpg",
+            "sort_order": 7,
+            "status": "active"
+        },
+        {
+            "id": 8,
+            "name": "Retail Solutions",
+            "slug": "retail",
+            "description": "Everything for retail store operations",
+            "icon": "fa-store",
+            "image": "retail.jpg",
+            "sort_order": 8,
+            "status": "active"
+        }
+    ]
+}
